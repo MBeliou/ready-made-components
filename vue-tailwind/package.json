@@ -1,0 +1,13 @@
+{
+  "name": "vue-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "show": "npx vue serve --open"
+  },
+  "author": "MBeliou",
+  "license": "ISC"
+}
